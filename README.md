@@ -2,7 +2,7 @@
 # 👨‍💻 HARSH BADHAN
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harsh+Badhan+👋;Computer+Science+Student+🎓;Full-Stack+Developer+💻;TECH+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
 <p align="center">
-  <a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF6600?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://codolio.com/profile/harshbadhann"><img src="https://img.shields.io/badge/-Codolio-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/></a>
   <a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
