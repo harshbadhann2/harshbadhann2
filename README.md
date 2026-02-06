@@ -187,29 +187,21 @@ Modern, responsive e-commerce frontend for seamless online grocery shopping expe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshbadhann2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbadhann2&layout=compact&langs_count=8&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshbadhann2&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbadhann2&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshbadhann2&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=harshbadhann2&theme=radical&hide_border=true" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshbadhann2&theme=radical&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshbadhann2&theme=react-dark&hide_border=true" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🎯 Coding Profiles & Achievements
-
-<div align="center">
-
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/harshbadhann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-badhan-1534452b8/)
-
-</div>
-
 <div align="center">
 
 ### 💡 Currently Learning & Exploring
