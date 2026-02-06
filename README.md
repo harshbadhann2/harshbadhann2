@@ -268,7 +268,7 @@ I'm always interested in collaborating on exciting projects! Whether it's:
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/harshbadhann2/harshbadhann2/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
