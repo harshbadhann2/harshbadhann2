@@ -2,7 +2,7 @@
 
 # 👨‍💻 HARSH BADHAN
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harsh+Badhan+👋;Computer+Science+Student+🎓;Full-Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harsh+Badhan+👋;Computer+Science+Student+🎓;Full-Stack+Developer+💻;TECH+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -79,7 +79,6 @@ const harsh = {
 
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
