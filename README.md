@@ -186,9 +186,10 @@ Modern, responsive e-commerce frontend for seamless online grocery shopping expe
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshbadhann2&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbadhann2&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
