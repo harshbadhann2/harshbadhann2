@@ -31,7 +31,7 @@ const harsh = {
         tools: ["Git", "GitHub", "VS Code", "Jupyter", "Docker"]
     },
     currentFocus: "Building AI-powered applications and mastering DSA",
-    funFact: "I debug code faster than I can solve a Rubik's cube!"
+    
 };
 ```
 
