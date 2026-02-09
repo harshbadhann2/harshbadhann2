@@ -16,19 +16,19 @@
 const harsh = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript", "C++", "Java", "C", "SQL"],
-    askMeAbout: ["web dev", "AI/ML", "computer vision", "DSA", "tech"],
+    askMeAbout: ["web dev", "AI/ML", "DSA", "tech"],
     technologies: {
         frontEnd: {
             js: ["React", "Node.js"],
             css: ["Bootstrap", "Tailwind", "CSS3"]
         },
         backEnd: {
-            python: ["Django", "Flask"],
+            python: ["Flask"],
             js: ["Express", "Node.js"]
         },
         aiMl: ["TensorFlow", "Keras", "OpenCV", "Scikit-Learn", "Pandas", "NumPy"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "VS Code", "Jupyter", "Docker"]
+        tools: ["Git", "GitHub", "VS Code", "Jupyter", "Notion"]
     },
     currentFocus: "Building AI-powered applications and mastering DSA",
     
@@ -236,15 +236,7 @@ I'm always interested in collaborating on exciting projects! Whether it's:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💭 Random Dev Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📈 Profile Views & Contributions
 
@@ -262,7 +254,6 @@ I'm always interested in collaborating on exciting projects! Whether it's:
 
 <div align="center">
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **💙 Thanks for visiting! Star ⭐ some repositories if you find them interesting!**
 
