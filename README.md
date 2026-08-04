@@ -1,262 +1,223 @@
 <div align="center">
-<h1 style="font-size: 3em;">👨‍💻 HARSH BADHAN</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Harsh+Badhan+👋;Computer+Science+Student+🎓;Full-Stack+Developer+💻;TECH+Enthusiast+🤖;Problem+Solver+%7C+DSA+Practitioner+🧩" alt="Typing SVG" />
-<p align="center">
-  <a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF6600?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/harshbadhann"><img src="https://img.shields.io/badge/-Codolio-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/></a>
-  <a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=220&section=header&text=Harsh%20Badhan&fontSize=70&fontColor=ffffff&fontAlignY=34&desc=Computer%20Science%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlignY=54&descSize=17&animation=fadeIn" width="100%" />
+
+<a href="https://portfolio-badhann.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Designing+full-stack+systems+end+to+end;Solving+problems%2C+one+algorithm+at+a+time;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://codolio.com/profile/harshbadhann"><img src="https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshbadhann2&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/harshbadhann2?style=flat-square&color=00D9FF&labelColor=1a1b27&logo=github" alt="Followers"/>
+
 </div>
 
-## 🎯 About Me
+<br/>
+
+## About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Developer illustration"/>
+
+I'm a Computer Science student who enjoys the space where **machine learning meets production software** — taking a model out of a notebook and putting it behind a real interface that real people use.
+
+- Currently building **AI-powered applications** and full-stack products
+- Deepening my grasp of **System Design**, **Advanced DSA**, and **Cloud**
+- Open to collaborating on **AI/ML** and **Web Development** projects
+- Ask me about **Python**, **Machine Learning**, **React**, or **DSA**
+- Reach me on [LinkedIn](https://www.linkedin.com/in/harsh-badhan-1534452b8/) — I reply to everything
+
+<br clear="right"/>
 
 ```javascript
 const harsh = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "C++", "Java", "C", "SQL"],
-    askMeAbout: ["web dev", "AI/ML", "DSA", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Node.js"],
-            css: ["Bootstrap", "Tailwind", "CSS3"]
-        },
-        backEnd: {
-            python: ["Flask"],
-            js: ["Express", "Node.js"]
-        },
-        aiMl: ["TensorFlow", "Keras", "OpenCV", "Scikit-Learn", "Pandas", "NumPy"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "VS Code", "Jupyter", "Notion"]
-    },
-    currentFocus: "Building AI-powered applications and mastering DSA",
-    
+  pronouns: ["he", "him"],
+  role: "Full-Stack Developer & AI/ML Practitioner",
+  languages: ["Python", "JavaScript", "C++", "Java", "C", "SQL"],
+  currentFocus: "Shipping AI products end-to-end and mastering DSA",
+  philosophy: "Write it simple, ship it fast, then make it right.",
+  funFact: "Half my best ideas arrive while debugging something unrelated."
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
-## 🚀 What I'm Up To
-
-- 🔭 Working on **AI/ML projects** and **Full-Stack applications**
-- 🌱 Learning **System Design**, **Advanced DSA**, and **Cloud Technologies**
-- 👯 Open to collaborate on **AI/ML** and **Web Development** projects
-- 💬 Ask me about **Python**, **Machine Learning**, **Web Dev**, or **DSA**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-badhan-1534452b8/)
-- ⚡ Check out my problem-solving skills on [Codolio](https://codolio.com/profile/harshbadhann)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,cpp,java,c,mysql,html,css&theme=dark" alt="Languages"/>
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+**Frontend**
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="Frontend"/>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Databases**
 
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,mysql,postgres&theme=dark" alt="Backend"/>
 
-</div>
+**AI / ML & Data**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda&theme=dark" alt="AI ML"/>
 
-## 🏆 Featured Projects
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
+**Tools & Platforms**
 
-### 🔍 Fake Review Detection System
-**Machine Learning • NLP • Web Development**
-
-An intelligent ML system that identifies fraudulent product reviews using advanced NLP techniques and sentiment analysis.
-
-**🛠️ Tech Stack:**
-- Python, TensorFlow, NLTK
-- Scikit-Learn, Flask
-- MongoDB
-
-**✨ Key Features:**
-- High-accuracy fraud detection
-- Real-time sentiment analysis
-- Web scraping capabilities
-- Interactive visualization dashboard
-
-</td>
-<td width="50%">
-
-### 👤 Face Recognition Attendance System
-**Computer Vision • Deep Learning**
-
-Automated attendance tracking using facial recognition technology for efficient management.
-
-**🛠️ Tech Stack:**
-- Python, OpenCV
-- Face Recognition Library
-- Pandas, Tkinter
-
-**✨ Key Features:**
-- Real-time face detection
-- Automated attendance marking
-- Daily report generation
-- User-friendly interface
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏘️ Housing Society Management
-**Database Management • Full-Stack**
-
-Comprehensive DBMS solution for managing housing society operations efficiently.
-
-**🛠️ Tech Stack:**
-- MySQL, Python/PHP
-- HTML, CSS, JavaScript
-
-**✨ Key Features:**
-- Member & flat management
-- Billing & payment tracking
-- Complaint management system
-- Role-based access control
-
-</td>
-<td width="50%">
-
-### 🛒 Grocery Home - E-Commerce UI
-**Frontend Development • UI/UX Design**
-
-Modern, responsive e-commerce frontend for seamless online grocery shopping experience.
-
-**🛠️ Tech Stack:**
-- React, HTML5, CSS3
-- JavaScript, Bootstrap
-
-**✨ Key Features:**
-- Fully responsive design
-- Interactive product catalog
-- Shopping cart functionality
-- Optimized performance
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 📊 GitHub Stats
-<div align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshbadhann2&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbadhann2&layout=compact&theme=radical&hide_border=true" /> -->
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=harshbadhann2&theme=radical&hide_border=true" /> -->
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshbadhann2&theme=react-dark&hide_border=true" />
-</div>
-<div align="center">
-
-### 💡 Currently Learning & Exploring
-
-| 🎓 Learning | 🚀 Building | 🎯 Improving |
-|-------------|-------------|--------------|
-| Advanced ML Algorithms | Real-Time AI Apps | Data Structures & Algorithms |
-| System Design | Scalable Backends | Competitive Programming |
-| Cloud Technologies | Open Source Projects | System Design Patterns |
-| Microservices | Full-Stack Applications | Code Optimization |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on exciting projects! Whether it's:
-
-🤖 **AI/ML Projects** • 💻 **Web Development** • 🔓 **Open Source** • 🎓 **Learning Together**
-
-<p>
-  <a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh_Badhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codolio.com/profile/harshbadhann">
-    <img src="https://img.shields.io/badge/Codolio-harshbadhann-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
-  <a href="mailto:harshbadhan@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
-## 📈 Profile Views & Contributions
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshbadhann2&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Fake Review Detection System
+`Machine Learning` · `NLP` · `Flask`
+
+An ML pipeline that flags fraudulent product reviews using NLP feature extraction and sentiment signals, served through a web dashboard.
+
+**Stack:** Python · TensorFlow · NLTK · Scikit-Learn · Flask · MongoDB
+
+- Classifies genuine vs. deceptive reviews
+- Real-time sentiment analysis
+- Web scraping for live review ingestion
+- Interactive visualization dashboard
+
+<a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Face Recognition Attendance
+`Computer Vision` · `Deep Learning`
+
+Automated attendance tracking that identifies faces from a live camera feed and logs entries without manual input.
+
+**Stack:** Python · OpenCV · face_recognition · Pandas · Tkinter
+
+- Real-time face detection and matching
+- Automatic attendance marking
+- Daily CSV report generation
+- Simple desktop interface
+
+<a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Housing Society Management
+`DBMS` · `Full-Stack`
+
+A management system covering residents, billing, and complaints for a housing society, built on a normalized relational schema.
+
+**Stack:** MySQL · Python/PHP · HTML · CSS · JavaScript
+
+- Member and flat records
+- Billing and payment tracking
+- Complaint lifecycle management
+- Role-based access control
+
+<a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Grocery Home — E-Commerce UI
+`Frontend` · `UI/UX`
+
+A responsive storefront for online grocery shopping, focused on clean component structure and fast load times.
+
+**Stack:** React · JavaScript · Bootstrap · CSS3
+
+- Fully responsive across breakpoints
+- Interactive product catalog
+- Cart and checkout flow
+- Performance-optimized rendering
+
+<a href="https://github.com/harshbadhann2"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshbadhann2&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbadhann2&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages"/>
 
-**💙 Thanks for visiting! Star ⭐ some repositories if you find them interesting!**
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://streak-stats.demolab.com?user=harshbadhann2&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshbadhann2&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshbadhann2&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+
+</div>
+
+---
+
+## Currently
+
+<div align="center">
+
+| Learning | Building | Sharpening |
+|:---|:---|:---|
+| Advanced ML algorithms | Real-time AI applications | Data Structures & Algorithms |
+| System design fundamentals | Scalable backend services | Competitive programming |
+| Cloud & deployment | Open source contributions | Design patterns |
+| Microservices architecture | Full-stack products | Code quality & optimization |
+
+</div>
+
+---
+
+## Let's Build Something
+
+<div align="center">
+
+I'm always up for interesting collaborations — **AI/ML**, **web development**, **open source**, or just learning together.
+
+<a href="https://www.linkedin.com/in/harsh-badhan-1534452b8/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-badhann.vercel.app/"><img src="https://img.shields.io/badge/See_My_Work-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/harshbadhann2/harshbadhann2/output/snake.svg" alt="Contribution snake" width="100%"/>
+
+<br/>
+
+<i>Thanks for stopping by — if something here is useful to you, a star means a lot.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=120&section=footer" width="100%"/>
 
 </div>
